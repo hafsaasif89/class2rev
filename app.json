@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "Zohaib",
+        "designation" : "programmer"
+    },
+    {
+        "id" : 2,
+        "name" : "Asad",
+        "designation" : "Developer"
+    },
+    {
+        "id" : 3,
+        "name" : "Fariha",
+        "designation" : "Tester"
+    },
+    {
+        "id" : 4,
+        "name" : "Hassan",
+        "designation" : "Salesman"
+    },
+    {
+        "id" : 5,
+        "name" : "Ali",
+        "designation" : "CEO"
+    }
+]
